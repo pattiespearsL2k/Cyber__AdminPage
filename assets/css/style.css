@@ -215,3 +215,9 @@ table.table .avatar {
      max-width: 1200px;
 }
 }
+
+@media screen and (max-width: 576px){
+.navbar-brand-box{
+	margin-left:12px;
+}
+}
